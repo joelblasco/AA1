@@ -1,0 +1,1 @@
+Normalmente, si todo va bien, me ca a preguntar a hacer el pull antes del push
